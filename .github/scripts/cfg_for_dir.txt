@@ -1,0 +1,6 @@
+auth;go;autobuild
+frontend;javascript-typescript;none
+storage;java-kotlin;none
+auth-ext;python;none
+gallery;go;autobuild
+.github;actions;none
